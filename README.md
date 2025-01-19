@@ -1,4 +1,3 @@
-# Lane_Detection_Using_Pytorch
 # Lane Detection Using PyTorch
 
 ## 🚀 Project Overview
