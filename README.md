@@ -78,7 +78,7 @@ The project employs **Gradio** to deploy the lane detection model, creating an i
 2. Run the Gradio app:
    ```bash
    python app.py
-##📝 Key Features
+## 📝 Key Features
 - Robust Dataset Preparation:
   - Seamless integration with Roboflow API for preprocessing and dataset splitting.
 - Versatile Models:
@@ -91,7 +91,7 @@ The project employs **Gradio** to deploy the lane detection model, creating an i
 - Interactive Deployment:
   - Real-time lane detection using Gradio.
 
-##🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 - Framework: PyTorch
 - Preprocessing: Roboflow API
 - Deployment: Gradio
@@ -99,10 +99,10 @@ The project employs **Gradio** to deploy the lane detection model, creating an i
 - Metrics: MSE, MAE, F1 Score, Accuracy
 - Model Architectures: DeepLabV3 with ResNet101, Custom MiniLaneDetectionModel
 
-##📈 Future Work
+## 📈 Future Work
 - Integrate additional datasets for improved model generalization.
 - Explore more advanced architectures like Transformer-based models.
 - Optimize deployment for edge devices.
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
