@@ -104,5 +104,5 @@ The project employs **Gradio** to deploy the lane detection model, creating an i
 - Explore more advanced architectures like Transformer-based models.
 - Optimize deployment for edge devices.
 
-
-Copy and save this content in a `README.md` file in your GitHub repository. Let me know if you'd like further adjustments!
+##📜 License
+This project is licensed under the MIT License.
